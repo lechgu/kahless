@@ -1,0 +1,11 @@
+{
+  "python.formatting.provider": "black",
+  "python.linting.flake8Enabled": true,
+  "pythonTestExplorer.testFramework": "pytest",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  
+  "python.pythonPath": ".venv/bin/python",
+  "python.formatting.blackPath": ".venv/bin/black",
+  "python.linting.flake8Path": ".venv/bin/flake8"
+  
+}
