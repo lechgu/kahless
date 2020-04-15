@@ -1,0 +1,2 @@
+[run]
+omit = .venv/*,conftest.py,test_khaless.py, wsgi.py
