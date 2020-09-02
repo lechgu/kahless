@@ -1,3 +1,3 @@
 ## kahless
 
-Minimalistic WSGI-compatible web framework
+Kahless is a inimalistic WSGI-compatible web framework
